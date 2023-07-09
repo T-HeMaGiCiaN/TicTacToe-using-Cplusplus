@@ -30,7 +30,7 @@ void value(char s[4][4], int a, int t) {
             s[1][2] = 'X';
         }
         if (a == 7) {
-            s[1][0] = 'X';
+            s[2][0] = 'X';
         }
         if (a == 8) {
             s[2][1] = 'X';
@@ -59,7 +59,7 @@ void value(char s[4][4], int a, int t) {
             s[1][2] = 'O';
         }
         if (a == 7) {
-            s[1][0] = 'O';
+            s[2][0] = 'O';
         }
         if (a == 8) {
             s[2][1] = 'O';
