@@ -1,2 +1,5 @@
 # TicTacToe using C++
- craeting tictactoe using c++ langiage
+ creating tictactoe game using c++ language
+ feel free to play
+ use it in assignment
+ enjoy
